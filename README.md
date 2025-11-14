@@ -1,2 +1,1 @@
-# Clashruleset
-Clash分流规则
+rule
